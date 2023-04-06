@@ -20,3 +20,12 @@ OUTPUT: dataset_part_1
 (calculating average, grouping by orbit and class, counting)
 
 OUTPUT: dataset_part_2
+
+
+## C. Data analysis using SQL
+### Part 1: Upload the data to the database
+### Part 2: Queries with SQL
+(10 exercices)
+
+
+
