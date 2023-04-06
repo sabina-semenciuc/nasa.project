@@ -9,3 +9,16 @@
 (replacing missing values, downloading the file)
 
 OUTPUT: dataset_part_1
+
+
+
+### nasa_project_2
+## B. Exploratory Data Analysis
+### Part 1: Calculate the number of releases on each platform.
+### Part 2: Calculate the number of launches for each orbit.
+### Part 3: Calculate the number of different landing results, distinguish successful from unsuccessful ones.
+### Part 4: Create a Class column using LandingOutcome
+### Part 5: Using the Class column.
+(calculating average, grouping by orbit and class, counting)
+
+OUTPUT: dataset_part_2
