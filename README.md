@@ -1,5 +1,4 @@
-### nasa_project_1
-## A. DATA COLLECTION
+## A. Data collection
 ### Part 1: Get the data via GET requests and create a dataframe
 ### Part 2: Data cleaning/wrangling
 
@@ -12,8 +11,7 @@ OUTPUT: dataset_part_1
 
 
 
-### nasa_project_2
-## B. Exploratory Data Analysis
+## B. Exploratory data analysis
 ### Part 1: Calculate the number of releases on each platform.
 ### Part 2: Calculate the number of launches for each orbit.
 ### Part 3: Calculate the number of different landing results, distinguish successful from unsuccessful ones.
