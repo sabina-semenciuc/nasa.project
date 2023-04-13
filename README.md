@@ -37,3 +37,11 @@ OUTPUT: dataset_part_2
 ### Part 5: Visualize the likelihood of success according to the platform
 ### Part 6: Visualization of the probability of success in each month.
 ### Part 7: Visualization of the probability of success over time.
+
+
+## E. Interactive Visual Analytics of launch site locations with Folium
+### Part 1: Mark all launching sites on a map.
+### Part 2: Mark on the map the successful/failed launches of each site.
+### Part 3: Calculate the distances between a launch site and its vicinity.
+
+
